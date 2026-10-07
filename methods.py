@@ -72,12 +72,3 @@ print(s1.add_marks("test2",65))
 print(s2.add_marks("test1",85))
 print(s1.cal_percentage())
 print(s1.show_result())
-
-
-
-
-
-
-
-
-
