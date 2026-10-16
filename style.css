@@ -1,0 +1,125 @@
+ <style>
+        *{
+            margin: 0px;
+        }
+        nav{
+            background-color: blue;
+            color: white;
+            justify-content: space-around;
+            display: flex;
+            padding: 10px;
+            align-items: center;
+        }
+        nav ul{
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
+        nav ul li a{
+            display: flex;
+            color: white;
+            font-size:larger;
+        }
+        footer{
+            background-color: black;
+            color: white;
+            margin-top:80px;
+            padding: 20px;
+        }
+        .footer-div{
+            display: flex;
+            justify-content: space-around;
+        }
+        footer h3{
+            color:blue;
+            margin-bottom: 10px;
+        }
+        .reg-div{
+            height: 270px;
+            width: 300px;
+            border: 1px solid black;
+            margin-top: 50px;
+            justify-self: center;
+            padding-bottom: 30px;
+            padding-top: 30px;
+            margin-bottom: 5px;
+           
+        }
+        .div-input{
+            width: 90%;
+            margin: 1px;
+            margin-left: 5px;
+            height: 30px;
+        }
+        button{
+            height: 30px;
+            width: 100px;
+            margin-bottom: 20px;
+            background-color: blue;
+            color: white;
+           
+        }
+        .h{
+            margin-top: 1px;
+            text-align: center;
+            font-size: larger;
+            
+        }
+        .main-div{
+            height: 100;
+            width: 400px;
+            border: 1px solid black;
+            border-radius: 8px;
+            object-fit:cover ;
+            box-shadow: 1px 1px 1px black;
+            
+            
+        }
+        .ma-div{
+            height:300px;
+            width: 500px;
+            border: 1px solid black;
+            border-radius: 10px;
+            object-fit:cover ;
+            box-shadow: 1px 1px 1px black;
+            
+            
+        }
+        img{
+            height: 200px;
+            width: 200px;
+            margin: 10px;
+            margin-left: 70px;
+            margin-bottom: 10px;
+      
+        }
+        .row-div{
+            display: flex;
+            gap: 30px;
+            margin-bottom: 20px; 
+            margin-top: 100px;
+            margin-left: 10px;
+            
+        }
+        h2{
+            margin-top: 1px;
+           justify-self: center;
+           margin-bottom: 1px;
+        }
+        .ptag{
+            margin-top: 1px;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .bt{
+            margin-left: 150px;
+            background-color:lightblue;
+            
+        }
+        .im{
+            border-radius: 70%;
+            margin-left: 50px;
+            height: 200px;
+            width: 200px;
+        }
+</style>
